@@ -1,0 +1,5 @@
+-- h2 console
+http://localhost:10095/h2-console
+
+-- swagger
+http://localhost:10095/swagger-ui-custom.html
